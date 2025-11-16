@@ -1,6 +1,6 @@
 SCP-035
 
-Dr. Simon Glass (SCP)
+Dr. Clef (SCP)
 
 Daisuke (mouthwashing)
 
